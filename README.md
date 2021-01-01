@@ -7,4 +7,4 @@
  * Learn JavaScript & C#
  ## Other
  - Discord - Saschi#9008
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=olliem5&theme=cobalt&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=SaschiBoi&theme=cobalt&count_private=true" />
