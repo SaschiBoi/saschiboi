@@ -2,7 +2,7 @@
  ## Current Projects
  ### Minecraft Clients
  #### 1.12.2
- * Titan
+ * Titanium 🏆
  ## For 2021
  * Learn JavaScript & C#
  ## Other
